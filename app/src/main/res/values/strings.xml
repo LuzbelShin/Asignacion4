@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Asignacion4_CalculadoraIMC_Valenzuela</string>
     <string name="calculate">Calcular</string>
+    <string name="notaPeso">Peso (Kg)</string>
+    <string name="notaEstatura">Estatura (m)</string>
+    <string name="avatar">Missing avatar</string>
 </resources>
